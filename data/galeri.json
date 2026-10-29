@@ -1,0 +1,62 @@
+[
+  {
+    "id": "galeri-1",
+    "judul": "Kegiatan Pelatihan Vokasi Barista dan Pengenalan Mesin Kopi",
+    "kategori": "Pelatihan Kemandirian",
+    "tanggal": "2025-02-14",
+    "fotoUrl": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+    "keterangan": "Pembekalan keterampilan meracik minuman kopi bagi anak binaan bersama instruktur tersertifikasi.",
+    "lokasi": "Ruang Workshop Vokasi LPKA Lombok Tengah",
+    "isDemoData": true
+  },
+  {
+    "id": "galeri-2",
+    "judul": "Proses Pembelajaran Mandiri & Literasi di Perpustakaan Ramah Anak",
+    "kategori": "Pendidikan",
+    "tanggal": "2025-02-10",
+    "fotoUrl": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=800&q=80",
+    "keterangan": "Penyediaan buku bacaan edukatif, ensiklopedia, dan bahan pelajaran kurikulum merdeka.",
+    "lokasi": "Perpustakaan Pustaka Ceria LPKA",
+    "isDemoData": true
+  },
+  {
+    "id": "galeri-3",
+    "judul": "Olahraga Bersama dan Senam Pagi Menjaga Kebugaran Jasmani",
+    "kategori": "Olahraga & Seni",
+    "tanggal": "2025-02-07",
+    "fotoUrl": "https://images.unsplash.com/photo-1517649763962-0c623266ddc0?auto=format&fit=crop&w=800&q=80",
+    "keterangan": "Senam kesegaran jasmani dipandu instruktur untuk meningkatkan daya tahan tubuh anak binaan.",
+    "lokasi": "Lapangan Olahraga Serbaguna LPKA",
+    "isDemoData": true
+  },
+  {
+    "id": "galeri-4",
+    "judul": "Budi Daya Sayuran Segar Metode Hidroponik Ramah Lingkungan",
+    "kategori": "Pelatihan Kemandirian",
+    "tanggal": "2025-01-25",
+    "fotoUrl": "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?auto=format&fit=crop&w=800&q=80",
+    "keterangan": "Panen perdana selada dan sawi pakcoy hasil kebun percontohan anak binaan.",
+    "lokasi": "Greenhouse Hidroponik LPKA Lombok Tengah",
+    "isDemoData": true
+  },
+  {
+    "id": "galeri-5",
+    "judul": "Pemeriksaan Kesehatan dan Konsultasi Gizi oleh Tim Medis",
+    "kategori": "Pembinaan Kepribadian",
+    "tanggal": "2025-01-18",
+    "fotoUrl": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80",
+    "keterangan": "Pemeriksaan berkala dokter poliklinik LPKA untuk memastikan tumbuh kembang jasmani anak sehat.",
+    "lokasi": "Klinik Pratama LPKA",
+    "isDemoData": true
+  },
+  {
+    "id": "galeri-6",
+    "judul": "Pentas Seni Musik Tradisional dan Rebana Binaan Kerohanian",
+    "kategori": "Olahraga & Seni",
+    "tanggal": "2025-01-12",
+    "fotoUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=800&q=80",
+    "keterangan": "Penyaluran bakat musikalitas dan olah vokal anak binaan dalam perayaan hari besar keagamaan.",
+    "lokasi": "Aula Serbaguna Sasambo LPKA",
+    "isDemoData": true
+  }
+]

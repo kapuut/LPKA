@@ -1,0 +1,52 @@
+backend:
+  name: github
+  repo: owner/repo # diganti saat deployment
+  branch: main
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "berita"
+    label: "Berita & Publikasi"
+    files:
+      - file: "data/berita.json"
+        label: "Daftar Berita"
+        name: "berita_list"
+        fields:
+          - { label: "Judul", name: "judul", widget: "string" }
+          - { label: "Slug", name: "slug", widget: "string" }
+          - { label: "Ringkasan", name: "ringkasan", widget: "text" }
+          - { label: "Konten", name: "konten", widget: "markdown" }
+          - { label: "Kategori", name: "kategori", widget: "string" }
+          - { label: "Gambar Utama", name: "gambarUtama", widget: "image" }
+          - { label: "Tanggal Publikasi", name: "tanggalPublikasi", widget: "datetime" }
+          - { label: "Status", name: "status", widget: "select", options: ["published", "draft", "archived"] }
+
+  - name: "pengumuman"
+    label: "Pengumuman Resmi"
+    files:
+      - file: "data/pengumuman.json"
+        label: "Daftar Pengumuman"
+        name: "pengumuman_list"
+        fields:
+          - { label: "Judul", name: "judul", widget: "string" }
+          - { label: "Nomor Surat", name: "nomorSurat", widget: "string" }
+          - { label: "Ringkasan", name: "ringkasan", widget: "text" }
+          - { label: "Konten Lengkap", name: "kontenLengkap", widget: "markdown" }
+          - { label: "Status", name: "status", widget: "select", options: ["aktif", "arsip"] }
+
+  - name: "pegawai"
+    label: "Kepegawaian & Struktur Organisasi"
+    files:
+      - file: "data/pegawai.json"
+        label: "Daftar Pegawai"
+        name: "pegawai_list"
+        fields:
+          - { label: "Nama", name: "nama", widget: "string" }
+          - { label: "Jabatan", name: "jabatan", widget: "string" }
+          - { label: "Unit Kerja", name: "unitKerja", widget: "string" }
+          - { label: "Level", name: "level", widget: "number" }
+          - { label: "Atasan ID", name: "atasanId", widget: "string", required: false }
+          - { label: "Urutan", name: "urutan", widget: "number" }
+          - { label: "Foto URL", name: "fotoUrl", widget: "image" }

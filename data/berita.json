@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "uji-coba-publikasi-berita-prototipe-lpka-6727",
+    "judul": "Uji Coba Publikasi Berita Prototipe LPKA",
+    "ringkasan": "Uji coba penyimpanan persisten",
+    "konten": "Ini adalah pengujian otomatis publikasi artikel berita ke penyimpanan persisten.",
+    "kategori": "Kemandirian",
+    "tags": [
+      "Pembinaan",
+      "LPKA Lombok Tengah"
+    ],
+    "gambarUtama": "/uploads/1793252731759-_endless__spirial_on_instagram.jpg",
+    "captionGambar": "",
+    "penulis": "Humas LPKA Lombok Tengah",
+    "tanggalPublikasi": "2026-10-29T03:38:09.731Z",
+    "status": "published",
+    "jumlahDilihat": 0,
+    "isUtama": false,
+    "updatedAt": "2026-10-29T05:45:34.983Z",
+    "isDemoData": false,
+    "id": "berita-1793245296727"
+  },
+  {
+    "id": "berita-1",
+    "slug": "pelatihan-keterampilan-vokasi-barista-hidroponik-anak-binaan",
+    "judul": "Tingkatkan Kemandirian, LPKA Kelas II Lombok Tengah Buka Pelatihan Vokasi Barista dan Budidaya Hidroponik",
+    "ringkasan": "Kegiatan ini diselenggarakan bekerjasama dengan Balai Latihan Kerja Lombok Tengah guna membekali anak binaan keahlian produktif siap kerja pasca menyelesaikan masa pembinaan.",
+    "konten": "Lombok Tengah — Dalam rangka mewujudkan pembinaan kemandirian yang berkelanjutan, Lembaga Pembinaan Khusus Anak (LPKA) Kelas II Lombok Tengah resmi menyelenggarakan program pelatihan vokasional barista dan budidaya tanaman hidroponik ramah lingkungan.\n\nKegiatan yang dibuka secara resmi ini merupakan salah satu komitmen institusi untuk memastikan bahwa setiap anak binaan tidak hanya mendapatkan pembinaan rohani dan budi pekerti, melainkan juga memiliki keahlian konkret yang diakui dengan sertifikat kompetensi resmi.\n\n\"Kami ingin adik-adik di sini keluar dengan kepala tegak, memiliki rasa percaya diri, dan memiliki bekal keterampilan nyata untuk kembali membangun kehidupannya di tengah masyarakat,\" jelas perwakilan Seksi Pembinaan LPKA.\n\nPelatihan ini mencakup materi teori keselamatan kerja, pengenalan teknik seduh kopi modern, manajemen stok, serta teknik instalasi nutrisi hidroponik. Pelatihan berlangsung intensif selama satu bulan dengan pendampingan instruktur profesional yang telah tersertifikasi BNSP.",
+    "kategori": "Kemandirian",
+    "tags": [
+      "Pelatihan",
+      "Kemandirian",
+      "Anak Binaan",
+      "Vokasi",
+      "Lombok Tengah"
+    ],
+    "gambarUtama": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80",
+    "captionGambar": "Suasana pengenalan keterampilan mandiri dan peralatan seduh di ruang bimbingan vokasional LPKA.",
+    "penulis": "Tim Humas LPKA Loteng",
+    "tanggalPublikasi": "2025-02-15T09:00:00Z",
+    "status": "published",
+    "jumlahDilihat": 245,
+    "isUtama": true,
+    "updatedAt": "2025-02-15T09:00:00Z",
+    "isDemoData": true
+  },
+  {
+    "id": "berita-2",
+    "slug": "penjaminan-hak-pendidikan-formal-kesetaraan-paket-c",
+    "judul": "Jamin Hak Pendidikan Dasar, 15 Anak Binaan LPKA Ikuti Ujian Pendidikan Kesetaraan Paket C",
+    "ringkasan": "Bekerjasama dengan Dinas Pendidikan Kabupaten Lombok Tengah dan PKBM mitra, seluruh anak usia sekolah di LPKA tetap terdaftar dan aktif menempuh kurikulum nasional.",
+    "konten": "Praya, Lombok Tengah — Lembaga Pembinaan Khusus Anak Kelas II Lombok Tengah kembali membuktikan komitmennya dalam menjamin hak konstitusional anak untuk mengenyam pendidikan. Bekerjasama dengan Pusat Kegiatan Belajar Masyarakat (PKBM) binaan Dinas Pendidikan Kabupaten Lombok Tengah, pelaksanaan Asesmen dan Ujian Kesetaraan Paket C berjalan dengan tertib dan lancar.\n\nPendidikan formal di LPKA diselenggarakan dengan pendekatan ramah anak, fleksibel, namun tetap berstandar kurikulum nasional merdeka belajar. Setiap anak binaan yang lulus akan memperoleh ijazah resmi yang sah untuk melanjutkan ke perguruan tinggi maupun melamar pekerjaan.\n\nKepala Seksi Pembinaan menegaskan bahwa masa pembinaan di LPKA bukanlah penghalang untuk meraih masa depan: \"Hak atas pendidikan anak adalah hak asasi yang tidak boleh hilang oleh karena status hukum mereka.\"",
+    "kategori": "Pendidikan",
+    "tags": [
+      "Pendidikan Formal",
+      "Paket C",
+      "Dinas Pendidikan",
+      "Hak Anak"
+    ],
+    "gambarUtama": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=800&q=80",
+    "captionGambar": "Kegiatan belajar mengajar dan literasi di Pusat Belajar LPKA Lombok Tengah.",
+    "penulis": "Subsi Bimkemas & Pendidikan",
+    "tanggalPublikasi": "2025-02-10T10:30:00Z",
+    "status": "published",
+    "jumlahDilihat": 189,
+    "isUtama": true,
+    "updatedAt": "2025-02-10T10:30:00Z",
+    "isDemoData": true
+  },
+  {
+    "id": "berita-3",
+    "slug": "kunjungan-monitoring-dan-evaluasi-kanwil-kemenkumham-ntb",
+    "judul": "Kunjungan Kerja Tim Monev Kanwil Kemenkumham NTB Tinjau Layanan Kunjungan dan Dapur Higienis",
+    "ringkasan": "Peninjauan memastikan bahwa standar higienitas makanan, kebersihan blok hunian ramah anak, dan transparansi SOP layanan publik berjalan prima tanpa pungutan liar.",
+    "konten": "Lombok Tengah — Tim Monitoring dan Evaluasi Divisi Pemasyarakatan Kantor Wilayah Kementerian Hukum dan HAM Nusa Tenggara Barat melaksanakan peninjauan langsung ke LPKA Kelas II Lombok Tengah.\n\nFokus peninjauan meliputi pemeriksaan kelayakan menu makanan anak binaan pada Dapur Sehat LPKA yang telah mengantongi Sertifikat Higiene Sanitasi Pangan, pemeriksaan fasilitas ruang kunjungan ramah keluarga, serta peninjauan pos layanan terpadu satu pintu (PTSP).\n\nHasil evaluasi menunjukkan bahwa sarana dan prasarana di LPKA Kelas II Lombok Tengah berada dalam kondisi prima, tertata rapi, dan mengedepankan pendekatan perlindungan anak secara konsisten.",
+    "kategori": "Kedinasan",
+    "tags": [
+      "Kemenkumham NTB",
+      "Monev",
+      "Dapur Sehat",
+      "Pelayanan Publik"
+    ],
+    "gambarUtama": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80",
+    "captionGambar": "Peninjauan sarana prasarana dan standar mutu pelayanan publik di lingkungan kantor.",
+    "penulis": "Subbag Tata Usaha",
+    "tanggalPublikasi": "2025-02-05T14:15:00Z",
+    "status": "published",
+    "jumlahDilihat": 310,
+    "isUtama": false,
+    "updatedAt": "2025-02-05T14:15:00Z",
+    "isDemoData": true
+  },
+  {
+    "id": "berita-4",
+    "slug": "pembinaan-kerohanian-dan-karakter-moral-melalui-pengajian-rutin",
+    "judul": "Bangun Karakter Berakhlak, LPKA Gelar Pembinaan Rohani Rutin dan Konseling Psikososial",
+    "ringkasan": "Program bimbingan mental spiritual bekerjasama dengan Kementerian Agama Lombok Tengah rutin diselenggarakan setiap pekan untuk memperkuat akhlak dan kestabilan mental anak.",
+    "konten": "Lombok Tengah — Pembinaan kepribadian mental dan kerohanian menjadi salah satu pilar utama di LPKA Kelas II Lombok Tengah. Melalui kerjasama rutin dengan penyuluh agama dari Kantor Kementerian Agama Kabupaten Lombok Tengah serta psikolog profesional, para anak binaan mendapatkan bimbingan keagamaan sesuai keyakinan masing-masing serta sesi konseling suportif.\n\nBimbingan ini dirancang tidak hanya untuk transfer pengetahuan keagamaan, tetapi juga pembiasaan ibadah harian, membaca kitab suci, serta refleksi diri untuk menumbuhkan rasa empati dan kedamaian hati.",
+    "kategori": "Kepribadian",
+    "tags": [
+      "Kerohanian",
+      "Konseling",
+      "Kemenag",
+      "Budi Pekerti"
+    ],
+    "gambarUtama": "https://images.unsplash.com/photo-1544717305-2782549b5136?auto=format&fit=crop&w=800&q=80",
+    "captionGambar": "Kegiatan bimbingan motivasi dan pembinaan akhlak anak binaan bersama instruktur.",
+    "penulis": "Seksi Pembinaan",
+    "tanggalPublikasi": "2025-01-28T08:30:00Z",
+    "status": "published",
+    "jumlahDilihat": 142,
+    "isUtama": false,
+    "updatedAt": "2025-01-28T08:30:00Z",
+    "isDemoData": true
+  }
+]

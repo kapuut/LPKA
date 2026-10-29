@@ -1,0 +1,65 @@
+[
+  {
+    "id": "log-1793252743634-uhkqp",
+    "timestamp": "2026-10-29T05:45:43.634Z",
+    "username": "admin",
+    "aksi": "LOGOUT",
+    "entitas": "Autentikasi",
+    "keterangan": "Keluar (logout) dari panel admin.",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1793252734992-rc2eh",
+    "timestamp": "2026-10-29T05:45:34.993Z",
+    "username": "admin",
+    "aksi": "UPDATE",
+    "entitas": "Berita",
+    "keterangan": "Mengubah berita: Uji Coba Publikasi Berita Prototipe LPKA",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1793252731761-smo1n",
+    "timestamp": "2026-10-29T05:45:31.761Z",
+    "username": "admin",
+    "aksi": "UPLOAD",
+    "entitas": "Media Foto",
+    "keterangan": "Mengunggah berkas: 1793252731759-_endless__spirial_on_instagram.jpg (53.2 KB)",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1793252697939-ay0ms",
+    "timestamp": "2026-10-29T05:44:57.939Z",
+    "username": "admin",
+    "aksi": "LOGIN",
+    "entitas": "Autentikasi",
+    "keterangan": "Berhasil login ke panel admin.",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1793245296803-ybuz3",
+    "timestamp": "2026-10-29T03:41:36.803Z",
+    "username": "admin",
+    "aksi": "CREATE",
+    "entitas": "Berita",
+    "keterangan": "Membuat berita baru: Uji Coba Publikasi Berita Prototipe LPKA",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-1793245048617-kb96d",
+    "timestamp": "2026-10-29T03:37:28.618Z",
+    "username": "admin",
+    "aksi": "LOGIN",
+    "entitas": "Autentikasi",
+    "keterangan": "Berhasil login ke panel admin.",
+    "ipAddress": "127.0.0.1"
+  },
+  {
+    "id": "log-seed-1",
+    "timestamp": "2026-10-29T02:49:58.976Z",
+    "username": "system",
+    "aksi": "SETUP",
+    "entitas": "Sistem",
+    "keterangan": "Inisialisasi sistem penyimpanan berkas dan penyemaian data awal prototipe LPKA Kelas II Lombok Tengah.",
+    "ipAddress": "127.0.0.1"
+  }
+]

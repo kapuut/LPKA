@@ -1,0 +1,56 @@
+[
+  {
+    "id": "peng-1",
+    "slug": "jadwal-dan-ketentuan-layanan-kunjungan-keluarga-tatap-muka",
+    "judul": "Maklumat Pelayanan dan Jadwal Kunjungan Tatap Muka Ramah Anak LPKA Kelas II Lombok Tengah",
+    "nomorSurat": "W21.PAS.PAS.8-UM.01.01-124 (Simulasi)",
+    "ringkasan": "Informasi jadwal kunjungan keluarga inti, syarat dokumen (KTP & Kartu Keluarga), ketentuan pakaian sopan, dan protokol kesehatan bagi pengunjung.",
+    "kontenLengkap": "Diumumkan kepada seluruh keluarga/orang tua/wali dari Anak Binaan di LPKA Kelas II Lombok Tengah:\n\n1. WAKTU KUNJUNGAN:\n- Hari Selasa & Kamis : Pukul 09.00 - 11.30 WITA dan 13.30 - 15.00 WITA.\n- Hari Sabtu : Pukul 09.00 - 12.00 WITA (Khusus keluarga dari luar pulau/kabupaten jauh).\n\n2. SYARAT ADMINISTRASI:\n- Membawa e-KTP / Kartu Identitas asli yang masih berlaku.\n- Membawa fotokopi Kartu Keluarga (KK) yang membuktikan hubungan keluarga inti (Orang tua/Wali/Saudara kandung).\n- Mendaftarkan diri di Pos Layanan Terpadu Satu Pintu (PTSP) sebelum jam batas masuk.\n\n3. TATA TERTIB:\n- Berpakaian rapi, sopan, dan tidak memakai perhiasan mencolok.\n- Dilarang keras membawa senjata tajam, narkotika, obat terlarang, ponsel genggam, kamera, atau barang elektronik ke dalam area steril pembinaan.\n- Seluruh layanan kunjungan ini bersifat GRATIS (BEBAS PUNGLI / RP 0). Apabila ada oknum yang meminta imbalan, segera laporkan ke hotline pengaduan resmi.",
+    "kategori": "Layanan Kunjungan",
+    "tanggalTerbit": "2025-02-01T08:00:00Z",
+    "berlakuSampai": "2025-12-31T23:59:59Z",
+    "status": "aktif",
+    "lampiran": {
+      "namaFile": "SOP-Layanan-Kunjungan-Tatap-Muka-LPKA.pdf",
+      "urlFile": "/uploads/SOP-Layanan-Kunjungan-Tatap-Muka-LPKA.pdf",
+      "ukuran": "420 KB"
+    },
+    "isPenting": true,
+    "updatedAt": "2025-02-01T08:00:00Z",
+    "isDemoData": true
+  },
+  {
+    "id": "peng-2",
+    "slug": "penerimaan-titipan-makanan-dan-barang-keperluan-anak-binaan",
+    "judul": "Prosedur Pemeriksaan dan Penerimaan Titipan Makanan & Pakaian Bersih untuk Anak Binaan",
+    "nomorSurat": "W21.PAS.PAS.8-PK.02.02-88 (Simulasi)",
+    "ringkasan": "Ketentuan jenis makanan yang diperbolehkan, wadah transparan, dan jadwal loket penerimaan titipan makanan di LPKA Lombok Tengah.",
+    "kontenLengkap": "Guna menjaga keamanan, kebersihan, dan kesehatan seluruh anak binaan:\n\n1. Loket penerimaan titipan dibuka setiap hari kerja pukul 08.30 - 14.30 WITA.\n2. Makanan yang dititipkan wajib menggunakan wadah plastik transparan/kotak makan bening agar memudahkan pemeriksaan fisik oleh petugas pemeriksa.\n3. Makanan olahan tidak mengandung bahan berbahaya, tidak berkulit keras atau berduri tajam, dan tidak berkuah berlebih.\n4. Pakaian yang dititipkan adalah pakaian santai tanpa tali panjang atau benda logam tajam.\n5. Pemeriksaan dilakukan di depan pihak pengantar barang untuk menjamin transparansi.",
+    "kategori": "Titipan Barang",
+    "tanggalTerbit": "2025-01-20T08:00:00Z",
+    "berlakuSampai": "2025-12-31T23:59:59Z",
+    "status": "aktif",
+    "lampiran": {
+      "namaFile": "Ketentuan-Titipan-Makanan-LPKA.pdf",
+      "urlFile": "/uploads/Ketentuan-Titipan-Makanan-LPKA.pdf",
+      "ukuran": "310 KB"
+    },
+    "isPenting": false,
+    "updatedAt": "2025-01-20T08:00:00Z",
+    "isDemoData": true
+  },
+  {
+    "id": "peng-3",
+    "slug": "layanan-pengaduan-masyarakat-kanal-sp4n-lapor-dan-pos-wbs",
+    "judul": "Kanal Resmi Pengaduan Masyarakat, Pos Yankomas, dan Whistleblowing System (WBS)",
+    "nomorSurat": "W21.PAS.PAS.8-PW.01.02-09 (Simulasi)",
+    "ringkasan": "Komitmen Wilayah Bebas Korupsi (WBK) LPKA Lombok Tengah dengan membuka saluran pengaduan langsung bagi masyarakat.",
+    "kontenLengkap": "LPKA Kelas II Lombok Tengah berkomitmen menyelenggarakan pelayanan publik yang bersih, melayani, dan transparan. Masyarakat dapat menyampaikan kritik, saran, maupun laporan pelanggaran melalui:\n\n1. WhatsApp Khusus Pengaduan: +62 819-0700-XXXX\n2. Portal Nasional SP4N LAPOR!: www.lapor.go.id\n3. Aplikasi WBS Kemenkumham: wbs.kemenkumham.go.id\n4. Pos Pelayanan Komunikasi Masyarakat (Yankomas) di area PTSP LPKA.\n\nSeluruh identitas pelapor dijamin kerahasiaannya sesuai ketentuan undang-undang perlindungan saksi dan pelapor.",
+    "kategori": "Pengaduan",
+    "tanggalTerbit": "2025-01-10T08:00:00Z",
+    "status": "aktif",
+    "isPenting": true,
+    "updatedAt": "2025-01-10T08:00:00Z",
+    "isDemoData": true
+  }
+]

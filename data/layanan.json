@@ -1,0 +1,210 @@
+[
+  {
+    "id": "layanan-1",
+    "slug": "layanan-kunjungan-tatap-muka",
+    "namaLayanan": "Layanan Kunjungan Tatap Muka Ramah Anak",
+    "kategori": "Kunjungan",
+    "deskripsiSingkat": "Fasilitas temu keluarga kandung bagi anak binaan di ruang kunjungan ramah anak yang bersih, sejuk, dan diawasi secara santun.",
+    "persyaratan": [
+      "Membawa e-KTP asli pengunjung yang masih berlaku.",
+      "Fotokopi Kartu Keluarga (KK) yang membuktikan hubungan darah (orang tua, wali sah, atau saudara kandung).",
+      "Telah terdaftar dalam buku daftar pengunjung resmi.",
+      "Mematuhi tata tertib pakaian sopan dan penitipan barang bawaan di loker aman."
+    ],
+    "prosedur": [
+      {
+        "langkah": 1,
+        "judul": "Pengambilan Nomor Antrean & Registrasi",
+        "keterangan": "Pengunjung datang ke Pos PTSP, mengambil antrean dan menyerahkan KTP & KK untuk diverifikasi sistem database pemasyarakatan."
+      },
+      {
+        "langkah": 2,
+        "judul": "Pemberian Kartu Visitor & Titipan Barang",
+        "keterangan": "Pengunjung menitipkan ponsel, tas, dan jaket di loker penitipan gratis dan menerima kartu pengenal tamu."
+      },
+      {
+        "langkah": 3,
+        "judul": "Pemeriksaan Keamanan (Body Checking)",
+        "keterangan": "Pemeriksaan badan secara santun menggunakan metal detector oleh petugas dengan jenis kelamin yang sama."
+      },
+      {
+        "langkah": 4,
+        "judul": "Pelaksanaan Temu Keluarga",
+        "keterangan": "Pengunjung dipersilakan masuk ke ruang temu keluarga ramah anak dengan durasi maksimal 30 menit per sesi."
+      }
+    ],
+    "jadwalLayanan": "Selasa & Kamis (09.00 - 11.30 & 13.30 - 15.00 WITA) | Sabtu (09.00 - 12.00 WITA)",
+    "biaya": "GRATIS / Rp 0 (Bebas Pungutan Liar)",
+    "waktuPenyelesaian": "Maksimal 15 menit proses registrasi antrean",
+    "penanggungJawab": "Seksi Pengawasan & Penegakan Disiplin",
+    "kontakPetugas": "(0370) 654-XXXX / WA: +62 819-0700-XXXX",
+    "isAktif": true,
+    "isDemoData": true
+  },
+  {
+    "id": "layanan-2",
+    "slug": "layanan-kunjungan-online-video-call",
+    "namaLayanan": "Layanan Video Call Ramah Anak (Kunjungan Online)",
+    "kategori": "Kunjungan",
+    "deskripsiSingkat": "Layanan panggilan video daring gratis khusus bagi keluarga anak binaan yang berdomisili di luar Lombok atau berhalangan hadir langsung karena kondisi fisik.",
+    "persyaratan": [
+      "Nomor WhatsApp aktif keluarga inti yang telah didaftarkan dan diverifikasi petugas wali anak.",
+      "Foto e-KTP dan KK yang dikirimkan via WhatsApp layanan sebelum jadwal panggilan.",
+      "Anak binaan yang bersangkutan berkelakuan baik dan tidak sedang dalam masa isolasi sanksi disiplin."
+    ],
+    "prosedur": [
+      {
+        "langkah": 1,
+        "judul": "Pendaftaran Online",
+        "keterangan": "Keluarga mendaftarkan permohonan video call melalui WhatsApp resmi paling lambat H-1."
+      },
+      {
+        "langkah": 2,
+        "judul": "Verifikasi Berkas",
+        "keterangan": "Petugas memeriksa kesesuaian identitas pemohon dengan data wali anak binaan."
+      },
+      {
+        "langkah": 3,
+        "judul": "Penjadwalan Panggilan",
+        "keterangan": "Petugas memberikan konfirmasi tautan/jam panggilan video."
+      },
+      {
+        "langkah": 4,
+        "judul": "Pelaksanaan Panggilan",
+        "keterangan": "Anak binaan melakukan video call di bilik komputer khusus dengan pendampingan petugas selama 15 menit."
+      }
+    ],
+    "jadwalLayanan": "Senin, Rabu, dan Jumat: Pukul 09.30 - 11.30 WITA",
+    "biaya": "GRATIS / Rp 0",
+    "waktuPenyelesaian": "Sesuai jadwal sesi yang disetujui",
+    "penanggungJawab": "Subbagian Tata Usaha & Pranata Komputer",
+    "kontakPetugas": "WA Khusus Video Call: +62 819-0700-XXXX",
+    "isAktif": true,
+    "isDemoData": true
+  },
+  {
+    "id": "layanan-3",
+    "slug": "layanan-titipan-makanan-dan-barang",
+    "namaLayanan": "Layanan Penitipan Makanan & Barang Kebutuhan",
+    "kategori": "Penitipan",
+    "deskripsiSingkat": "Penerimaan titipan makanan sehat siap saji, buah-buahan segar, dan perlengkapan mandi/pakaian dari keluarga.",
+    "persyaratan": [
+      "KTP asli pengantar barang.",
+      "Makanan dikemas dalam wadah plastik transparan/kotak bening.",
+      "Tidak menyertakan benda tajam, kaca, kaleng, rokok, atau bahan cair mencurigakan."
+    ],
+    "prosedur": [
+      {
+        "langkah": 1,
+        "judul": "Pendaftaran Titipan",
+        "keterangan": "Menyerahkan identitas diri dan mengisi formulir daftar barang bawaan di loket PTSP."
+      },
+      {
+        "langkah": 2,
+        "judul": "Pemeriksaan Fisik Terbuka",
+        "keterangan": "Petugas membuka dan memeriksa isi makanan di depan pengantar secara transparan."
+      },
+      {
+        "langkah": 3,
+        "judul": "Pemberian Tanda Terima",
+        "keterangan": "Pengantar menerima bukti serah terima titipan."
+      },
+      {
+        "langkah": 4,
+        "judul": "Penyaluran ke Anak Binaan",
+        "keterangan": "Petugas mendistribusikan titipan kepada anak binaan yang bersangkutan pada hari yang sama."
+      }
+    ],
+    "jadwalLayanan": "Senin - Jumat: Pukul 08.30 - 14.30 WITA",
+    "biaya": "GRATIS / Rp 0",
+    "waktuPenyelesaian": "10 - 15 menit proses pemeriksaan",
+    "penanggungJawab": "Petugas Pintu Utama (P2U) & Kasi Perawatan",
+    "kontakPetugas": "Loket PTSP LPKA",
+    "isAktif": true,
+    "isDemoData": true
+  },
+  {
+    "id": "layanan-4",
+    "slug": "layanan-pengusulan-hak-integrasi-pb-cb-cmb",
+    "namaLayanan": "Layanan Integrasi Pembebasan Bersyarat (PB) & Cuti Bersyarat (CB)",
+    "kategori": "Integrasi & Pembebasan",
+    "deskripsiSingkat": "Proses pengusulan hak bersyarat anak binaan yang telah memenuhi syarat substantif dan administratif tanpa dipungut biaya apapun.",
+    "persyaratan": [
+      "Telah menjalani masa pidana sesuai ketentuan undang-undang SPPA.",
+      "Surat jaminan dari orang tua / wali yang diketahui Kepala Desa / Lurah setempat.",
+      "Surat Keterangan Litmas (Penelitian Kemasyarakatan) dari Balai Pemasyarakatan (Bapas).",
+      "Laporan perkembangan pembinaan (PPK) anak berkelakuan baik dan aktif mengikuti kegiatan.",
+      "Fotokopi KTP dan KK penjamin."
+    ],
+    "prosedur": [
+      {
+        "langkah": 1,
+        "judul": "Pemeriksaan Masa Pidana",
+        "keterangan": "Petugas registrasi memeriksa anak yang telah memenuhi syarat 1/2 atau 2/3 masa pidana."
+      },
+      {
+        "langkah": 2,
+        "judul": "Permintaan Litmas ke Bapas",
+        "keterangan": "LPKA mengirim surat permohonan penelitian kemasyarakatan ke Bapas terdekat."
+      },
+      {
+        "langkah": 3,
+        "judul": "Sidang TPP (Tim Pengamat Pemasyarakatan)",
+        "keterangan": "Sidang anggota TPP untuk menilai kelayakan usulan integrasi anak binaan."
+      },
+      {
+        "langkah": 4,
+        "judul": "Penerbitan SK Integrasi Melalui SPPA Online",
+        "keterangan": "Pengusulan melalui Sistem Database Pemasyarakatan (SDP) hingga terbit Surat Keputusan resmi."
+      }
+    ],
+    "jadwalLayanan": "Senin - Jumat: Pukul 08.00 - 15.00 WITA",
+    "biaya": "GRATIS / Rp 0 (Sepenuhnya Dibiayai Negara)",
+    "waktuPenyelesaian": "Sesuai alur verifikasi SDP dan penerbitan SK Ditjenpas",
+    "penanggungJawab": "Seksi Pembinaan / Subsi Bimkemas",
+    "kontakPetugas": "Hotline Integrasi: +62 819-0700-XXXX",
+    "isAktif": true,
+    "isDemoData": true
+  },
+  {
+    "id": "layanan-5",
+    "slug": "layanan-pengaduan-dan-bantuan-hukum",
+    "namaLayanan": "Layanan Pengaduan Masyarakat & Konsultasi Bantuan Hukum",
+    "kategori": "Pengaduan",
+    "deskripsiSingkat": "Saluran pengaduan masyarakat atas dugaan penyimpangan layanan, gratifikasi, serta fasilitas konsultasi bantuan hukum pro bono bagi anak binaan kurang mampu.",
+    "persyaratan": [
+      "KTP/Identitas pelapor atau pemohon bantuan hukum.",
+      "Uraian kronologi kejadian atau salinan surat perkara yang membutuhkan pendampingan.",
+      "Bukti pendukung bila mengajukan laporan aduan (foto/dokumen jika ada)."
+    ],
+    "prosedur": [
+      {
+        "langkah": 1,
+        "judul": "Penyampaian Laporan",
+        "keterangan": "Pelapor dapat datang langsung ke Pos Yankomas PTSP atau melapor via WhatsApp / SP4N LAPOR."
+      },
+      {
+        "langkah": 2,
+        "judul": "Registrasi dan Verifikasi",
+        "keterangan": "Laporan diregistrasi dan dijamin kerahasiaan identitas pelapornya."
+      },
+      {
+        "langkah": 3,
+        "judul": "Tindak Lanjut & Klarifikasi",
+        "keterangan": "Tim pemeriksa internal melakukan penelaahan dalam waktu maksimal 3x24 jam."
+      },
+      {
+        "langkah": 4,
+        "judul": "Penyampaian Respon Resmi",
+        "keterangan": "Hasil tindak lanjut disampaikan kembali kepada pihak pelapor."
+      }
+    ],
+    "jadwalLayanan": "Setiap Hari Kerja & Online 24 Jam via Kanal Digital",
+    "biaya": "GRATIS / Rp 0",
+    "waktuPenyelesaian": "Maksimal 3 hari kerja respon awal",
+    "penanggungJawab": "Tim Pengaduan & PPID LPKA",
+    "kontakPetugas": "WA Pengaduan: +62 819-0700-XXXX | Email: lpka.lomboktengah@kemenkumham.go.id",
+    "isAktif": true,
+    "isDemoData": true
+  }
+]

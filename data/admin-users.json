@@ -1,0 +1,11 @@
+[
+  {
+    "id": "admin-init-1",
+    "username": "admin",
+    "passwordHash": "$2b$10$3uaVU/3n9k3LQe786k26Y.zdOQLAiZWFUsz4TsbIzQc/wjRzV7x.G",
+    "name": "Administrator Resmi (Demo)",
+    "email": "admin.lpkaloteng@kemenkumham.go.id",
+    "role": "superadmin",
+    "createdAt": "2026-10-29T02:49:58.976Z"
+  }
+]

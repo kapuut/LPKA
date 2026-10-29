@@ -1,0 +1,80 @@
+{
+  "namaInstansi": "Lembaga Pembinaan Khusus Anak Kelas II Lombok Tengah",
+  "namaSingkat": "LPKA Lombok Tengah",
+  "namaResmiKementerian": "Kementerian Hukum dan Hak Asasi Manusia Republik Indonesia - Kantor Wilayah Nusa Tenggara Barat",
+  "slogan": "PASTI BERSAHAJA (Bersih, Santun, Handal, dan Berkinerja)",
+  "sejarah": "Lembaga Pembinaan Khusus Anak (LPKA) Kelas II Lombok Tengah merupakan Unit Pelaksana Teknis (UPT) Pemasyarakatan di bawah naungan Kantor Wilayah Kementerian Hukum dan HAM Nusa Tenggara Barat. Berdasarkan Undang-Undang Nomor 11 Tahun 2012 tentang Sistem Peradilan Pidana Anak (SPPA) serta Undang-Undang Nomor 22 Tahun 2022 tentang Pemasyarakatan, LPKA bertransformasi dari pendekatan penjara konvensional menjadi lembaga perlindungan, rehabilitasi, dan pemenuhan hak-hak tumbuh kembang anak yang berhadapan dengan hukum. Berlokasi di Kabupaten Lombok Tengah, LPKA berkomitmen memberikan lingkungan asri, edukatif, dan ramah anak guna mewujudkan generasi masa depan yang mandiri, berkarakter, dan berbudi pekerti luhur.",
+  "visi": "Terwujudnya Pembinaan Anak Binaan yang Berkualitas, Mandiri, Berakhlak Mulia, dan Terintegrasi Kembali ke Masyarakat secara Utuh.",
+  "misi": [
+    "Menyelenggarakan pembinaan kepribadian, kerohanian, dan budi pekerti yang ramah anak.",
+    "Menjamin hak pendidikan formal, nonformal, dan pelatihan keterampilan vokasi sesuai minat dan bakat anak binaan.",
+    "Memberikan pelayanan kesehatan, perawatan jasmani, dan pemenuhan nutrisi yang higienis serta layak.",
+    "Menegakkan disiplin dan pengawasan yang humanis tanpa kekerasan sesuai prinsip perlindungan anak.",
+    "Meningkatkan sinergi dengan instansi pemerintah, organisasi nonpemerintah, dunia usaha, dan masyarakat luas dalam reintegrasi sosial."
+  ],
+  "tugasPokok": "Melaksanakan pembinaan, bimbingan, pengawasan, penegakan disiplin, dan perawatan bagi Anak Binaan berdasarkan peraturan perundang-undangan yang berlaku dalam rangka sistem peradilan pidana anak.",
+  "fungsi": [
+    "Pelaksanaan registrasi, klasifikasi, dan penempatan anak binaan.",
+    "Pelaksanaan pembinaan mental spiritual, budi pekerti, dan kepribadian anak.",
+    "Penyelenggaraan pendidikan formal (kesetaraan Paket A, B, C) dan pelatihan kemandirian vokasi.",
+    "Pelayanan kesehatan fisik, psikologis, dan perawatan dasar anak binaan.",
+    "Pengawasan, pemeliharaan ketertiban, dan penegakan tata tertib internal yang humanis.",
+    "Pengelolaan urusan tata usaha, kepegawaian, keuangan, dan rumah tangga kantor."
+  ],
+  "tujuan": [
+    "Membimbing anak binaan agar menyadari kekhilafan dan memperbaiki diri.",
+    "Membekali anak binaan dengan sertifikasi keahlian agar mandiri pasca selesai masa pembinaan.",
+    "Menjamin tidak terjadi diskriminasi, kekerasan, atau pelanggaran hak asasi anak.",
+    "Mewujudkan tata kelola birokrasi yang transparan, akuntabel, dan bebas dari korupsi (WBK/WBBM)."
+  ],
+  "tataNilai": [
+    {
+      "judul": "Profesional",
+      "deskripsi": "Bekerja sesuai kompetensi, SOP kedinasan, dan etika aparatur sipil negara."
+    },
+    {
+      "judul": "Akuntabel",
+      "deskripsi": "Dapat dipertanggungjawabkan secara transparan kepada masyarakat dan negara."
+    },
+    {
+      "judul": "Sinergi",
+      "deskripsi": "Menjalin kerjasama harmonis lintas sektoral, instansi, dan masyarakat."
+    },
+    {
+      "judul": "Transparan",
+      "deskripsi": "Keterbukaan informasi publik dan akuntabilitas kinerja tanpa pungli."
+    },
+    {
+      "judul": "Inovatif",
+      "deskripsi": "Terus mengembangkan metode pembinaan modern berbasis minat dan teknologi."
+    }
+  ],
+  "alamat": "Jl. Pemasyarakatan No. 01, Kelurahan Prapen, Kecamatan Praya, Kabupaten Lombok Tengah, Nusa Tenggara Barat 83511",
+  "telepon": "(0370) 654-XXXX (Data Simulasi)",
+  "hotlinePengaduan": "+62 819-0700-XXXX (WhatsApp Pengaduan Resmi)",
+  "email": "lpka.lomboktengah@kemenkumham.go.id",
+  "jamLayanan": "Senin - Kamis: 08.00 - 15.00 WITA | Jumat: 08.00 - 11.30 WITA | Sabtu & Minggu: Khusus Kunjungan Terjadwal",
+  "koordinatPeta": {
+    "lat": -8.7061,
+    "lng": 116.2736,
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15774.20817926839!2d116.265!3d-8.706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dcdb70000000000%3A0x0!2sPraya%2C%20Lombok%20Tengah!5e0!3m2!1sid!2sid!4v1700000000000"
+  },
+  "mediaSosial": {
+    "facebook": "https://facebook.com/lpkalomboktengah",
+    "instagram": "https://instagram.com/lpka_lomboktengah",
+    "twitter": "https://twitter.com/lpkaloteng",
+    "youtube": "https://youtube.com/@lpkalomboktengah",
+    "tiktok": "https://tiktok.com/@lpka_lomboktengah"
+  },
+  "bannerHero": {
+    "badge": "KANTOR WILAYAH KEMENKUMHAM NUSA TENGGARA BARAT",
+    "judul": "Membina Masa Depan Generasi Emas Bangsa dengan Kasih Sayang & Ketegasan Humanis",
+    "deskripsi": "Selamat Datang di Portal Informasi Publik Resmi LPKA Kelas II Lombok Tengah. Komitmen kami mengutamakan perlindungan hak anak, pendidikan berkelanjutan, pembinaan kemandirian vokasional, dan pelayanan prima bebas pungli.",
+    "tombolUtamaText": "Layanan Kunjungan & Bantuan",
+    "tombolUtamaUrl": "/layanan",
+    "tombolKeduaText": "Informasi Publik (PPID)",
+    "tombolKeduaUrl": "/informasi-publik"
+  },
+  "updatedAt": "2026-10-29T02:49:58.807Z",
+  "isDemoData": true
+}

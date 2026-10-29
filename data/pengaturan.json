@@ -1,0 +1,40 @@
+{
+  "namaWebsite": "Portal Resmi LPKA Kelas II Lombok Tengah",
+  "deskripsiWebsite": "Sistem Informasi Publik Resmi Lembaga Pembinaan Khusus Anak Kelas II Lombok Tengah, Kanwil Kemenkumham NTB.",
+  "modePenyimpanan": "local",
+  "kontenBeranda": {
+    "tampilkanPengumumanPenting": true,
+    "tampilkanStatistik": true,
+    "tampilkanLayananCepat": true,
+    "tampilkanGaleri": true,
+    "maxBeritaTampil": 3
+  },
+  "statistikLPKA": [
+    {
+      "label": "Anak Binaan Dididik",
+      "nilai": "28",
+      "keterangan": "Aktif dalam program pembinaan",
+      "icon": "Users"
+    },
+    {
+      "label": "Kelulusan Paket Kesetaraan",
+      "nilai": "100%",
+      "keterangan": "Terdaftar kurikulum pendidikan",
+      "icon": "GraduationCap"
+    },
+    {
+      "label": "Program Vokasi Bersertifikat",
+      "nilai": "4",
+      "keterangan": "Barista, Hidroponik, Pertukangan, Las",
+      "icon": "Award"
+    },
+    {
+      "label": "Indeks Kepuasan Layanan",
+      "nilai": "4.89 / 5.0",
+      "keterangan": "Bebas Pungli & Korupsi (WBK)",
+      "icon": "ShieldCheck"
+    }
+  ],
+  "pesanDisclaimerDemo": "CATATAN PROTOTIPE RESMI: Seluruh data nama pejabat, NIP, nomor surat, dan dokumen dinas pada prototipe ini bertanda (Data Simulasi / Prototipe). Data riil dapat diperbarui oleh pengelola melalui Panel Admin terintegrasi tanpa database relasional.",
+  "updatedAt": "2026-10-29T02:49:58.809Z"
+}
